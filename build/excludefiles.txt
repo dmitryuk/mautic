@@ -10,8 +10,6 @@ app/phpunit.xml.dist
 build/*
 bin/*
 codeception.yml
-composer.json
-composer.lock
 deleted_files.txt
 Gruntfile.js
 Gruntfile.js
